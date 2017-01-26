@@ -2,5 +2,5 @@
 
 Test branch
 
-Updated from GitHub
+Updated from GitBook
 
